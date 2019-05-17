@@ -12,7 +12,7 @@ import sys
 import os
 
 import pcbnew
-from pcbnew import EXCELLON_WRITER, PLOT_FORMAT_POST, wxPoint
+from pcbnew import EXCELLON_WRITER, wxPoint
 
 file_name = os.path.abspath(sys.argv[1])
 output_dir = os.path.abspath(sys.argv[2])
