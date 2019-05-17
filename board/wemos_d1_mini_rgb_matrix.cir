@@ -1,0 +1,4 @@
+.title KiCad schematic
+U1 NC_01 Net-_U1-Pad14_ Net-_U1-Pad14_ NC_02 NC_03 NC_04 NC_05 NC_06 +5V GND NC_07 NC_08 NC_09 Net-_U1-Pad14_ NC_10 NC_11 WeMos_D1_mini
+PI1 Conn_02x08_Odd_Even
+.end
